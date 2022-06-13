@@ -1,3 +1,6 @@
+<h1 dir="auto">CLOTHING AS ITEM FOR GTA 5 FIVEM ROLEPLAY SERVER | QBCORE FRAMEWORK</h1>
+<p>Required minimum <span style="color: #339966;">$10</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
+<p>Video Showcase: <a href="https://youtu.be/-9QQQlKoqyE" target="_blank">YouTube</a></p>
 ## Necessary Modifications:
 ### Path: qb-clothing/client/main.lua
 <details>
@@ -359,3 +362,28 @@ end
 </details>
 </details>
 
+
+<p><strong>Features: </strong></p>
+<ol>
+<li>Make any clothing as item</li>
+<li>Whitelisted clothing protection</li>
+<li>Get robbed, loose skin too</li>
+</ol>
+<p><strong>Dependency: </strong></p>
+<ol>
+<li>qb-core</li>
+<li>qb-clothing</li>
+</ol>
+<p><strong>How to install:</strong></p>
+<ol>
+<li>Download file as zip</li>
+<li>Rename folder to ak47_qb_iclothingv2</li>
+<li>Must do necessary modifications</li>
+<li>Put items in qb-core</li>
+<li>Put item images into inventory</li>
+<li>Set your patreon email in config.lua</li>
+<li>Add this resource at the bottom of your server.cfg</li>
+<li>Restart your server</li>
+</ol>
+<p><strong>Join discord for support:</strong> <a href="https://discord.gg/RKZcVwh">https://discord.gg/RKZcVwh</a></p>
+<p><strong>Note:</strong> We do not support custom frameworks, highly modified versions of QBcore, or deprecated/outdated versions of anything.</p>
