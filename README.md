@@ -1,6 +1,7 @@
 <h1 dir="auto">CLOTHING AS ITEM FOR GTA 5 FIVEM ROLEPLAY SERVER | QBCORE FRAMEWORK</h1>
 <p>Required minimum <span style="color: #339966;">$10</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
 <p>Video Showcase: <a href="https://youtu.be/-9QQQlKoqyE" target="_blank">YouTube</a></p>
+
 ## Necessary Modifications:
 ### Path: qb-clothing/client/main.lua
 <details>
