@@ -3,7 +3,7 @@
 <details>
 <summary>Replace</summary>
 <details>
-<summary>Orginal</summary>
+<summary>Original</summary>
 
 ```lua
 RegisterNetEvent('qb-clothing:client:loadOutfit')
@@ -269,7 +269,7 @@ end)
 <details>
 <summary>Replace</summary>
 <details>
-<summary>Orginal</summary>
+<summary>Original</summary>
 
 ```lua
 function self.Functions.RemoveItem(item, amount, slot)
