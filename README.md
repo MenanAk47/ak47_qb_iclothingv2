@@ -364,7 +364,7 @@ end
 </details>
 
 
-<p><strong>Features: </strong></p>
+##Features:
 <ol>
 <li>Make any clothing as item</li>
 <li>Whitelisted clothing protection</li>
