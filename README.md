@@ -264,7 +264,6 @@ AddEventHandler('qb-clothing:getSkin', function(cb)
 end)
 ```
 </details>
-<br>
 
 ### Path: qb-core/server/player.lua
 <details>
